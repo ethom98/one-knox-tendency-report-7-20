@@ -15,7 +15,7 @@ This project was created by manually tracking tactical tendencies from match fil
 
 ## 📈 Final Graphic
 
-![Tendency Graphic](One%20Knox%20Tendency%20Graphic.png)
+![Tendency Graphic](One-Knox-Tendency-Graphic.png)
 
 The heatmaps show:
 - **Build-up Zones (%):** Where One Knox initiates play
