@@ -22,6 +22,14 @@ This project was created by manually tracking tactical tendencies from match fil
 - Creating visual heatmaps using **Python**, **pandas**, **seaborn**, and **matplotlib**
 
 ## 📈 Final Graphic
+📅 Match Sample – Tactical Analysis Based on 2025 Fixtures
+This report is based on full-match scouting of the following four One Knoxville SC matches from the 2025 season:
+-	July 5v@ Chattanooga (0-1 L) - “GW 1”
+-	July 12 @ Tormenta (1-2 W) - “GW 2”
+-	July 16 vs. AV Alta FC (3-1 W) - “GW 3”
+-	July 19 vs. Westchester SC (1-1 D) - “GW 4”
+These matches were selected to reflect recent team form, consistent lineup selections, and opposing variety (home and away).
+
 
 ![Tendency Graphic](graphics/One-Knox-Tendency-Graphic.png)
 
