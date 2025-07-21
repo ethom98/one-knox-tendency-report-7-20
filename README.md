@@ -28,8 +28,8 @@ This report is based on full-match scouting of the following four One Knoxville 
 -	July 12 @ Tormenta (1-2 W) - “GW 2”
 -	July 16 vs. AV Alta FC (3-1 W) - “GW 3”
 -	July 19 vs. Westchester SC (1-1 D) - “GW 4”
-These matches were selected to reflect recent team form, consistent lineup selections, and opposing variety (home and away).
 
+These matches were selected to reflect recent team form, consistent lineup selections, and opposing variety (home and away).
 
 ![Tendency Graphic](graphics/One-Knox-Tendency-Graphic.png)
 
