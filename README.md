@@ -1,6 +1,6 @@
 # One Knox Tendency Report
 
-## 🆚 Scouting Matchup: Chattanooga Red Wolves 🆚 One Knoxville SC
+## Scouting Matchup: Chattanooga Red Wolves 🆚 One Knoxville SC
 
 <p align="center">
   <img src="graphics/Red-Wolves-SC-logo.png" alt="Chattanooga Red Wolves Logo" width="80"/>
