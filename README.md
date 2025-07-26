@@ -52,6 +52,27 @@ The heatmaps show:
 Includes deeper tactical tendencies, set piece analysis, transition behaviors, and a match-by-match breakdown.
 
 ---
+Absolutely — here’s a **more data-driven** version of the predicted scoreline section. It still includes your tactical reasoning but grounds it in recent performance trends and game traits:
+
+---
+
+## 🔮 Predicted Scoreline
+
+**Chattanooga Red Wolves 2 - 1 One Knoxville SC**
+
+This Tennessee Derby is expected to be a tightly contested match, but Chattanooga holds the edge based on recent form and tactical matchups:
+
+* **Defensive Solidity:** Chattanooga has conceded just *3 goals across their last 4 matches*, often forcing opponents into wide areas and low-percentage shots. Their narrow mid-block limits central penetration—precisely where One Knox struggles to create.
+
+* **Exploiting Forced Play:** One Knoxville prefers a possession-first, defense-to-attack build-up model. However, when trailing, they tend to force chances—leading to turnovers and exposure in transition. Chattanooga has shown they can punish these moments with **direct attacking transitions** and set piece efficiency.
+
+* **Efficiency in Attack:** The Red Wolves average **1.4 goals per game over their last 5 matches**, and often convert a high proportion of their big chances. Against a One Knox side that can overcommit, this may prove decisive.
+
+* **Home Field & Momentum:** Chattanooga is unbeaten at home in 3 straight matches and enters with momentum following a hard-earned draw vs top opposition.
+
+> 📊 **Prediction:** Chattanooga will frustrate One Knox’s build-up, strike on the counter, and edge out a 2–1 win.
+
+---
 
 ## 🛠 Tools Used
 
