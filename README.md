@@ -38,6 +38,8 @@ The heatmaps show:
 - **Build-up Zones (%):** Where One Knox initiates play
 - **Attacking Channels (%):** Where final third entries and attacks occur
 
+---
+
 ### 🔢 Predicted Lineup: One Knoxville SC
 
 ![One Knox Predicted Lineup](graphics/lineup.png)
