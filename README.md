@@ -52,9 +52,6 @@ The heatmaps show:
 Includes deeper tactical tendencies, set piece analysis, transition behaviors, and a match-by-match breakdown.
 
 ---
-Absolutely — here’s a **more data-driven** version of the predicted scoreline section. It still includes your tactical reasoning but grounds it in recent performance trends and game traits:
-
----
 
 ## 🔮 Predicted Scoreline
 
