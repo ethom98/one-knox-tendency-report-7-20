@@ -22,12 +22,13 @@ This project was created by manually tracking tactical tendencies from match fil
 - Creating visual heatmaps using **Python**, **pandas**, **seaborn**, and **matplotlib**
 
 ## 📈 Final Graphic
-📅 Match Sample – Tactical Analysis Based on 2025 Fixtures
-This report is based on full-match scouting of the following four One Knoxville SC matches from the 2025 season:
--	July 5v@ Chattanooga (0-1 L) - “GW 1”
--	July 12 @ Tormenta (1-2 W) - “GW 2”
--	July 16 vs. AV Alta FC (3-1 W) - “GW 3”
--	July 19 vs. Westchester SC (1-1 D) - “GW 4”
+
+📅 Match Sample – Tactical Analysis Based on 2025 Fixtures  
+This report is based on full-match scouting of the following four One Knoxville SC matches:
+- July 5 @ Chattanooga (0-1 L) – “GW 1”
+- July 12 @ Tormenta (2-1 W) – “GW 2”
+- July 16 vs. AV Alta FC (3-1 W) – “GW 3”
+- July 19 vs. Westchester SC (1-1 D) – “GW 4”
 
 These matches were selected to reflect recent team form, consistent lineup selections, and opposing variety (home and away).
 
@@ -36,6 +37,21 @@ These matches were selected to reflect recent team form, consistent lineup selec
 The heatmaps show:
 - **Build-up Zones (%):** Where One Knox initiates play
 - **Attacking Channels (%):** Where final third entries and attacks occur
+
+### 🔢 Predicted Lineup: One Knoxville SC
+
+![One Knox Predicted Lineup](graphics/lineup.png)
+
+*Predicted starting XI based on last 4 matches. Formation: 4-2-3-1 with double pivot (Caputo & Haugli) and Kelly operating centrally beneath Diene.*
+
+---
+
+### 📄 Full PDF Report
+
+📥 [Download the full written scouting report](docs/One_Knox_Tendencies_Summary.pdf)  
+Includes deeper tactical tendencies, set piece analysis, transition behaviors, and a match-by-match breakdown.
+
+---
 
 ## 🛠 Tools Used
 
@@ -47,8 +63,10 @@ The heatmaps show:
 ## 📁 Files Included
 
 - `graphics/One-Knox-Tendency-Graphic.png` – Final report graphic
+- `graphics/lineup.png` – Predicted starting XI for One Knoxville SC
 - `graphics/Red-Wolves-SC-logo.png` – Chattanooga Red Wolves logo
 - `graphics/one-knox-logo.png` – One Knoxville SC logo
+- `docs/One_Knox_Tendencies_Summary.pdf` – Full written opposition report
 - `one_knox_tendency_graphic.py` – Python script to generate the visuals
 
 ## 🧠 About This Project
